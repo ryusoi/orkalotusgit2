@@ -1,0 +1,8 @@
+{
+  "name": "orkalotusgit2",
+  "description": "Imported from GitHub: ryusoi/orkalotusgit2",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
